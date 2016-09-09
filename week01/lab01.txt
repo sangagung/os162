@@ -18,3 +18,4 @@ drwxr-xr-x  2 sang.agung StafCS 4096 Sep  9 16:50 week08
 drwxr-xr-x  2 sang.agung StafCS 4096 Sep  9 16:50 week09
 drwxr-xr-x  2 sang.agung StafCS 4096 Sep  9 16:50 week10
 /home/fasilkom/mahasiswa/s/sang.agung/os162/week01
+Today is 09 Sep 2016 at 18:43:37
