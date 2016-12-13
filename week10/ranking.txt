@@ -1,5 +1,3 @@
-GitHub  : https://github.com/sangagung/
-URL     : http://tugas-os162.blogspot.com/2016/12/ulasan-2.html
-Video   : https://www.youtube.com/watch?v=0Yf-W7Ps6u4
-Durasi  : 40 menit 37 detik
-Submitted on November 29th 2016
+Sang Agung (sagungrp@gmail.com) (https://github.com/sangagung/os162)
+URL Ranking: http://tugas-os162.blogspot.co.id/2016/12/rangking-ulasan-os.html
+Tanggal Submisi Revisi Pertama : 13 Desember 2016
